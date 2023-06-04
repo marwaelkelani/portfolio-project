@@ -179,6 +179,11 @@ h3 {
     text-align: left;
 }
 
+.contact-info > p {
+    font-size: 30px;
+    text-align: center;
+}
+
 #form {
     display:inline-block;
     text-align:left;
@@ -193,7 +198,7 @@ h3 {
     display: inline-block;
     padding: 10px;
     margin: 10px;
-    /* border: 1px solid black; */
+    
 
 }
 
@@ -211,7 +216,6 @@ input {
     width: 500px;
 }
 
-/* HOW DO I MAKE THE MESSAGE START AT THE TOP AND NOT IN THE MIDDLE? */
 #message {
     height: 150px;
     
