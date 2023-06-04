@@ -102,6 +102,11 @@ h2 {
 img {
     width: 20%;
     height: 45%;
+    
+}
+
+.project {
+    border: 2px black solid;
 }
 
 
@@ -123,7 +128,6 @@ h3 {
     font-size: 30px;
     font-family: "Handlee";
     font-weight:bold;
-    text-decoration: underline;
 }
 
 
